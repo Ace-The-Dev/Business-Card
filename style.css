@@ -1,0 +1,29 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.card img{
+    width:200px;
+    /*margin-right: 12px;*/
+}
+
+.card{
+    padding: 20px;
+    display: flex; 
+    justify-content: space-around;
+    width:450px;
+    margin: 150px auto 0;
+    background-color: rgb(169, 209, 254);
+    border-bottom: 7px solid rgb(240, 169, 240);
+}
+
+.para{
+    margin:auto 0;
+    text-align: center;
+    line-height: 50px;
+}
